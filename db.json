@@ -3,26 +3,29 @@
     {
       "id": 1,
       "title": "Post 1",
-      "service": 2,
+      "event_type": 1,
+      "event_name": "Corte de pelo",
       "date": "17-10-2024",
-      "time-start": "14:00",
-      "time-end": "14:30"
+      "time_start": "14:00",
+      "time_end": "14:30"
     },
     {
       "id": 2,
       "title": "Post 2",
-      "service": 2,
+      "event_type": 1,
+      "event_name": "Corte de pelo",
       "date": "17-10-2024",
-      "time-start": "14:00",
-      "time-end": "14:30"
+      "time_start": "14:00",
+      "time_end": "14:30"
     },
     {
       "id": 3,
       "title": "Post 3",
-      "service": 2,
+      "event_type": 1,
+      "event_name": "Corte de pelo",
       "date": "17-10-2024",
-      "time-start": "14:00",
-      "time-end": "14:30"
+      "time_start": "14:00",
+      "time_end": "14:30"
     }
   ],
   "comments": [
